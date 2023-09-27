@@ -10,6 +10,7 @@ import JoinPage from './pages/join';
 import AuthenticatedRoute from './shared/infra/router/AuthenticatedRoute';
 import SubmitPage from './pages/submit';
 import MemberPage from './pages/member';
+//aaaaaaa
 
 const App: React.FC = () => {
   return (

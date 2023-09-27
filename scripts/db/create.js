@@ -11,7 +11,7 @@ const {
   NODE_ENV
 } = process.env;
 
-const  dbName = NODE_ENV === "development"
+const dbName = NODE_ENV === "development"
   ? DDD_FORUM_DB_DEV_DB_NAME 
   : DDD_FORUM_DB_TEST_DB_NAME
 
